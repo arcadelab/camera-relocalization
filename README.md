@@ -11,7 +11,7 @@ Vedula, Masaru Ishii, Gregory Hager, Russell H. Taylor and Mathias Unberath.
 In **the 14th International Conference on Information Processing in
 Computer-Assisted Interventions (IPCAI 2023)**
 
-Please contact Isabela Hernández (iherna12@jhu.edu) or Roger Soberanis-Mukul (rsobera1@jhu.edu) if you have any questions.
+Please contact Roger Soberanis-Mukul (rsobera1@jhu.edu) or Mathias Unberath (unberath@jhu.edu) if you have any questions.
 
 We kindly ask you to cite [this paper](https://link.springer.com/article/10.1007/s11548-023-02918-x) if you build upon our work.
 
